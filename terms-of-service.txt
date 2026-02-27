@@ -1,0 +1,2 @@
+Terms of Service
+By using this app, you agree to our terms and conditions. The app automates AI Tools content creation and uploads videos to TikTok using n8n workflow.
